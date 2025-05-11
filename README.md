@@ -453,10 +453,3 @@ After running the pipeline, the following metrics will be generated:
    - Identification of potential structural errors
    - Alignment discrepancies against reference databases
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-This implementation is part of the Bioinformatics Algorithms course assignment.
