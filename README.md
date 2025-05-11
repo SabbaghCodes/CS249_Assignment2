@@ -75,7 +75,8 @@ A pipeline for assembling and evaluating the Scincus mitranus (sandfish lizard) 
 │   │   ├── merqury_results/
 │   │   └── misassembly_results/
 ```
-All code used in this assignment is available at: \url{https://github.com/SabbaghCodes/CS249_Assignment2}.  
+All assembly results can be accessed on the Ibex at: /ibex/user/sabbam0a/classes/cs249/assignment\_2.
+
 ## De Bruijn Graph (DBG) Assembly
 
 The DBG assembly algorithm creates a graph where nodes represent k-mers and edges represent overlaps between k-mers, then identifies Eulerian paths to construct contigs.
